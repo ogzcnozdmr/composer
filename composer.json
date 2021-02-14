@@ -1,0 +1,17 @@
+{
+    "name": "oguzcan/composer",
+    "type": "library",
+    "description": "",
+    "authors": [
+        {
+            "name": "Oğuzcan ÖZDEMİR",
+            "email": "ce.oguzcan.ozdemir@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Oguzcan\\" : "src/mail-system/"
+        }
+    },
+    "require": {}
+}
